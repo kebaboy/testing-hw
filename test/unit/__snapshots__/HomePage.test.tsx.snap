@@ -1,0 +1,143 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Главная страница должна иметь статическое содержание: Главная страница 1`] = `
+<div>
+  <div
+    class="Application"
+  >
+    <nav
+      class="navbar navbar-expand-sm navbar-light bg-light"
+    >
+      <div
+        class="container"
+      >
+        <a
+          class="Application-Brand navbar-brand"
+          href="/hw/store"
+        >
+          Kogtetochka store
+        </a>
+        <button
+          aria-label="Toggle navigation"
+          class="Application-Toggler navbar-toggler"
+        >
+          <span
+            class="navbar-toggler-icon"
+          />
+        </button>
+        <div
+          class="Application-Menu collapse navbar-collapse"
+        >
+          <div
+            class="navbar-nav"
+          >
+            <a
+              class="nav-link"
+              href="/hw/store/catalog"
+            >
+              Catalog
+            </a>
+            <a
+              class="nav-link"
+              href="/hw/store/delivery"
+            >
+              Delivery
+            </a>
+            <a
+              class="nav-link"
+              href="/hw/store/contacts"
+            >
+              Contacts
+            </a>
+            <a
+              class="nav-link"
+              href="/hw/store/cart"
+            >
+              Cart
+            </a>
+          </div>
+        </div>
+      </div>
+    </nav>
+    <div
+      class="container pt-4"
+    >
+      <div
+        class="Home"
+      >
+        <div
+          class="row"
+        >
+          <div
+            class="col bg-orange text-white py-4 bg-opacity-75"
+          >
+            <p
+              class="display-3"
+            >
+              Welcome to Kogtetochka store!
+            </p>
+            <p
+              class="lead"
+            >
+              We have a large assortment of scratching posts!
+            </p>
+          </div>
+        </div>
+        <div
+          class="row mb-4"
+        >
+          <div
+            class="col-12 col-md-4 bg-light py-3"
+          >
+            <h1>
+              Stability
+            </h1>
+            <p
+              class="lead"
+            >
+              Our scratching posts are crafted with precision and designed for unparalleled stability. Made from high-quality materials, they provide a sturdy platform for your cat's scratching needs.
+            </p>
+          </div>
+          <div
+            class="col-12 col-md-4 bg-light py-3"
+          >
+            <h1>
+              Comfort
+            </h1>
+            <p
+              class="lead"
+            >
+              Pamper your feline friend with the luxurious comfort of our scratching posts. Covered in soft, plush fabric, they offer a cozy retreat for your cat to relax and unwind.
+            </p>
+          </div>
+          <div
+            class="col-12 col-md-4 bg-light py-3"
+          >
+            <h1>
+              Design
+            </h1>
+            <p
+              class="lead"
+            >
+              Engage your cat's natural instincts and keep them entertained for hours with our interactive scratching posts. Featuring built-in toys and enticing textures, they stimulate your cat's senses and encourage active play.
+            </p>
+          </div>
+        </div>
+        <div
+          class="row mb-4"
+        >
+          <div
+            class="col-12py-3"
+          >
+            <p
+              class="fs-1"
+            >
+              Empower Your Coding Journey with Every Scratch – Get Your Paws on Our Purr-fect Scratchers Today!
+            </p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;
